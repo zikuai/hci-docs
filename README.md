@@ -1,6 +1,6 @@
-# hci-markdown
+# hci-docs
 
-> A Vue.js project
+> vt common widgets docs
 
 ## Build Setup
 
